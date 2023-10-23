@@ -1,0 +1,25 @@
+@media (max-width:600px) {
+
+/* second-hero */
+    
+#second-hero{
+    height: 50vh;
+    padding-left: 5vw;
+}
+    /* About */
+
+    #about{
+        flex-direction: column;
+        height: 110vh;
+        gap: 10px;
+        
+    }
+
+    #footer{
+        flex-direction: column;
+        gap: 20px;
+    }
+
+/* subscribe */
+
+}
