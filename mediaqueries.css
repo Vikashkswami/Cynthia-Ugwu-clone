@@ -21,6 +21,9 @@
         gap: 50px;
     }
 
+    #about #textabout{
+        width: 20rem;
+    }
     #subscribe {
         padding-top: 35vw;
     }
